@@ -1,9 +1,9 @@
 {
-    "name": "fluent/logger",
+    "name": "juramy/fluent-logger-php",
     "type": "library",
     "description": "a logging library for Fluentd",
     "keywords": ["log","logging"],
-    "homepage": "http://github.com/fluent/fluent-logger-php",
+    "homepage": "http://github.com/juramy/fluent-logger-php",
     "license": "Apache",
     "authors": [
         {
